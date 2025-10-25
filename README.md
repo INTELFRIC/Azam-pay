@@ -1,4 +1,5 @@
 <p align="center">
+    <img src="/art/intelfric.png" width="300" title="Azampay Logo" alt="Azampay Logo">
     <img src="/art/azampay-logo.png" width="300" title="Azampay Logo" alt="Azampay Logo">
 </p>
 

@@ -558,8 +558,8 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [Alpha Olomi](https://github.com/intelfric)
-- [Omakei](https://github.com/omakei)
+- [intelfric Technologies Company Limited](https://github.com/INTELFRIC , https://www.intelfric.com)
+- [Developer Team](https://dev@intelfric.com)
 - [All Contributors](../../contributors)
 
 ## License
